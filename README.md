@@ -1,0 +1,2 @@
+# seckill秒杀模块
+基于spring集成springmvc集成mybatis的秒杀功能模块
